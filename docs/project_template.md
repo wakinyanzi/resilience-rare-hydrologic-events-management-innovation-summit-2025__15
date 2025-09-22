@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "Resilience for Rare Hydrologic Events Management"
+subtitle: "Innovation Summit 2025 · Group 15"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+contact_slack: "#innovation-summit-group-15"
+contact_email: "group15@esiil.org"
+repo_owner: "CU-ESIIL"
+repo_name: "resilience-rare-hydrologic-events-management-innovation-summit-2025__15"
 edit_path: "docs/project_template.md"
 ---
 

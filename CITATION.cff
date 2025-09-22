@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Resilience for Rare Hydrologic Events Management — Innovation Summit 2025 (Group 15)"
+abstract: "Materials for the Innovation Summit 2025 project team exploring resilience strategies for rare hydrologic events."
+version: "0.1.0"
+date-released: 2025-01-01
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - name: "Innovation Summit 2025 Team 15"
