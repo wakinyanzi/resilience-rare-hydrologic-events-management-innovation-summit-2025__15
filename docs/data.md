@@ -15,7 +15,7 @@ Document where critical datasets live so teammates and collaborators can access 
 - **CDC Social Vulnerability Index** — CSV exports stored in `data/svi/`. Source: [CDC SVI](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html).
 
 ## Shared storage (CyVerse)
-- Community path: `i:/iplant/home/shared/esiil/Innovation_summit/Group_15`
+- Community path: [`i:/iplant/home/shared/esiil/Innovation_summit/Group_15`](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_15?type=folder&resourceId=0771cefc-95a2-11f0-b0fb-90e2ba675364)
 - Use subfolders such as `shared_data/`, `raw_inputs/`, and `deliverables/` to organize uploads.
 - Large rasters (>100 MB) should stay in CyVerse; link to them from notebooks instead of committing to GitHub.
 
