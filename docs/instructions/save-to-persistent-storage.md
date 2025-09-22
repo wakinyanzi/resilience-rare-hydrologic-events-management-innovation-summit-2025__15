@@ -21,13 +21,13 @@ curl -L -s https://github.com/cyverse/gocommands/releases/download/${GOCMD_VER}/
 
 **Community folder root (read/write for teams):**
 ```
-i:/iplant/home/shared/esiil/Innovation_summit/<GROUP_NAME>
+i:/iplant/home/shared/esiil/Innovation_summit/Group_15
 ```
 
 Set environment variables:
 ```bash
 # —— Edit these two lines ——
-GROUP_NAME="Group_1"                  # <-- change to your group
+GROUP_NAME="Group_15"                  # <-- change only if your group number differs
 USERNAME="<your_cyverse_username>"    # <-- no angle brackets
 
 COMMUNITY="i:/iplant/home/shared/esiil/Innovation_summit/${GROUP_NAME}"

@@ -1,4 +1,4 @@
-# Project Group OASIS — Starter Website & README Kit
+# Resilience for Rare Hydrologic Events Management — Innovation Summit 2025 (Group 15)
 
 This guide is written for people who may be brand new to GitHub. It will show you, step by step, how to use this repository as both:
 
@@ -6,7 +6,9 @@ This guide is written for people who may be brand new to GitHub. It will show yo
 2. A **hub for sharing code** within your group.
 
 
-**Template users:** If you are using this repository as a template, start with [TEMPLATE_GUIDE.md](TEMPLATE_GUIDE.md) for the required name and link updates.
+**Project context:** This site supports Group 15 at the 2025 Innovation Summit focused on resilience for rare hydrologic events. Use it as the public face of your project and the central hub for shared code, documentation, and resources.
+
+**Live site:** https://cu-esiil.github.io/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/
 
 ---
 
@@ -113,7 +115,7 @@ Congratulations — you’re now using GitHub to communicate your science and sh
 
 ### Step 2 — Open the project home
 
-1. Visit your repository link (it looks like `https://github.com/ORG/Project_group_OASIS`).
+1. Visit your repository link (it looks like `https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15`).
 2. You’ll see folders like `docs/`, `src/`, and files like `README.md`.
 
 **Why this matters:** This is the “front door” to your project’s files.

@@ -1,6 +1,6 @@
-# Group Notes
+# Group Notes — Resilience for Rare Hydrologic Events Management
 
-Use this shared notebook to capture meeting highlights, decisions, and follow-up tasks.
+Use this shared notebook to capture meeting highlights, decisions, and follow-up tasks for Innovation Summit Group 15.
 
 - Summarize key takeaways after each working session.
 - Note data sources, analysis ideas, and open questions.
