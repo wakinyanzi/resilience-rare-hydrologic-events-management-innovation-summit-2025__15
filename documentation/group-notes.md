@@ -7,9 +7,7 @@ Use this shared notebook to capture meeting highlights, decisions, and follow-up
 - Assign owners and due dates for action items so nothing slips through the cracks.
 - Drop helpful links, screenshots, or file references so the team can find them later.
 
-Feel free to add new sections as needed to keep everyone aligned and informed.
-
-Questions
+## Questions
 
 - How does management inhibit resilience?
 - How might we improve resilience (define?) to rare hydrologic and meteorologic events (e.g. flood, drought, tornado) across communities and ecosystems through management practices?
