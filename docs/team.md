@@ -14,6 +14,7 @@ Use this page to keep contact details current so collaborators can reach you qui
 | _Add team member_ | _Data & modeling_ | _Hydrologic analysis_ | _name@example.org_ | @_github_ |
 | _Add team member_ | _Community liaison_ | _Stakeholder engagement_ | _name@example.org_ | @_github_ |
 | _Add team member_ | _Visualization & comms_ | _Story products_ | _name@example.org_ | @_github_ |
+| [Brian Yandell](https://byandell.github.io) | | | _byandell@wisc.edu_ | @_byandell_ |
 
 ## Working norms
 - Preferred communication channel: `#innovation-summit-group-15` on Slack.
