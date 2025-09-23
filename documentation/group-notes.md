@@ -22,6 +22,9 @@ Original question:
 ## Study Area
 
 - Green, Snake and Wind Rivers and their watersheds
+  - Snake: resist due to protect property
+  - Wind: accept due to Tribal influence
+  - Green: direct via ag practices
 - bounded by second major reservoir for each river
 - dams and lakes
 
