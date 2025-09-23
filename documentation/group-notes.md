@@ -22,6 +22,7 @@ Original question:
 ## Study Area
 
 - Green, Snake and Wind Rivers and their watersheds
+- bounded by second major reservoir for each river
 - dams and lakes
 
 ## Measurements
