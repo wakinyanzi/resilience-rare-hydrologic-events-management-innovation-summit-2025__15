@@ -29,4 +29,4 @@ Original question:
 
 - water-drought relationship
 - Watersheds and their changes over time.
-- Response variables.
+- Response variables: air, water, earth, fire
