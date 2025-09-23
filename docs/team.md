@@ -14,12 +14,21 @@ Use this page to keep contact details current so collaborators can reach you qui
 | _Add team member_ | _Data & modeling_ | _Hydrologic analysis_ | _name@example.org_ | @_github_ |
 | _Add team member_ | _Community liaison_ | _Stakeholder engagement_ | _name@example.org_ | @_github_ |
 | _Add team member_ | _Visualization & comms_ | _Story products_ | _name@example.org_ | @_github_ |
-| [Brian Yandell](https://byandell.github.io) | | | _byandell@wisc.edu_ | [@_byandell_](https://github.com/byandell) |
+| [_Brian Yandell_](https://byandell.github.io) | | | _byandell@wisc.edu_ | [@_byandell_](https://github.com/byandell) |
+| _Lilly Jones_ ||| _lilly.jones-1@colorado.edu_ | [@_lijo8146_](https://github.com/lijo8146) |
 
 ## Working norms
 - Preferred communication channel: `#innovation-summit-group-15` on Slack.
 - Daily sync: 9:00 a.m. MT at the collaboration table near the visualization wall.
 - Update this page whenever roles shift so the wider community knows who to contact.
+### Group norms
+- Make sure we all have a piece/connection in this project.
+- Respect each others' constraints (time, responsibilities, etc.).
+- Define our contributions--work towards a collective vision.
+- Keep open channels of productive communication.
+- Protect each others' wellness.
+- Respect each others' passions / expressions / emotions.
+- Respect data sovereignty w.r.t. data collection, etc.
 
 ## Quick links
 - [Group notes](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/group-notes.md) — running meeting notes.
