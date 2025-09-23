@@ -8,7 +8,7 @@ Use this shared notebook to capture meeting highlights, decisions, and follow-up
 - Drop helpful links, screenshots, or file references so the team can find them later.
 
 ## Questions
-![](images/group15.png)
+![](images/Group15.png)
 
 - How does management inhibit resilience?
 - How might we improve resilience (define?) to rare hydrologic and meteorologic events (e.g. flood, drought, tornado) across communities and ecosystems through management practices?
