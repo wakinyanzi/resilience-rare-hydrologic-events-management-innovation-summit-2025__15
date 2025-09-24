@@ -57,7 +57,9 @@ Team member goals
 - career advancement
 - win-win multiple use of code or results
 
-Coordinate Reference System Projections
+## Coordinate Reference System Projections
+
+See [Devise](https://devise.uwyo.edu/app)
 
 - [EPSG:26912](https://spatialreference.org/ref/epsg/26912/)
 - UTM 12N (study area)
