@@ -20,6 +20,7 @@ Use this page to keep contact details current so collaborators can reach you qui
 | _Bob Rabin_ ||| _bob.meteor@gmail.com_ | [@_meteoralert_](https://github.com/meteoralert) |
 | _Jason Tinant_ ||| _jtinant@olc.edu_ | [@_cjtinant_](https://github.com/cjtinant) |
 | _Ashley Babcock_ ||| _ababcoc5@uwyo.edu_ | [@_ashbabs14_](https://github.com/ashbabs14) |
+| _Darryl Reano_ ||| _darryl.reano@asu.edu_ | [@_darrylreano_](https://github.com/darrylreano) |
 
 ## Working norms
 - Preferred communication channel: `#innovation-summit-group-15` on Slack.
