@@ -52,7 +52,7 @@ Create beautiful plots that describe these patterns and highlight the variations
 
 I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
 
-## Socioeconomic Forcings (Psudomodel based on RAD Framework)
+## Socioeconomic Forcings (Pseudomodel based on RAD Framework)
 - Green, Snake and Wind Rivers and their watersheds stakeholders are hypothesized to place different values on water use.
   *hypothesized reponses based on a mostly uniformed prior*
   - Snake: Resistance to water and landuse changes that might affect property values for wealthy land owners
