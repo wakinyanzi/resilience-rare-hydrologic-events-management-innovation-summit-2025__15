@@ -55,7 +55,7 @@ Coding / Tasks
 Team member goals
 
 - career advancement
-- win-win use of code or results
+- win-win multiple use of code or results
 
 Coordinate Reference System Projections
 
