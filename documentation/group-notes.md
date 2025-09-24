@@ -70,7 +70,7 @@ I recommend that you create and save a plan.md that documents how you expect to 
 I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries) and the second major reservoir for each river. I want to download
 atmospheric (precipitation and NDVI),
 streamflow (USGS water, NDWI),
-land cover (NLCD or Sentinel)
+land cover (NLCD or ESA World Cover)
 and
 soil moisture (Palmer drought stress index or NASA SMAP)
 data.
