@@ -27,6 +27,7 @@ Original question:
   - Snake: Resist due to protect property
   - Wind: Accept due to Tribal influence
   - Green: Direct via ag practices
+  - [Three Waters Mountain](https://mapcarta.com/24027664)
 - bounded by second major reservoir for each river
 - dams and lakes
 
@@ -41,13 +42,20 @@ Original question:
   - fire: soil moisture -- unsure how to estimate.
  
 ## Goals
-Short term
+Time frame
 
-- during this workshop
+- Short term: during this workshop--getting basics in one day
+- Long term: WG proposal by Nov 21
 
-Long term
+Coding / Tasks
 
-- proposal 
+- AI tool from Tyson
+- python or R code individual efforts
+
+Team member goals
+
+- career advancement
+- win-win use of code or results
 
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 
