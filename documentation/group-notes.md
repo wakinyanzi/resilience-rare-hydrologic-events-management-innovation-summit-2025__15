@@ -38,6 +38,22 @@ Original question:
   - earth: land cover -- fraction of NLCD
   - fire: soil moisture -- unsure how to estimate.
 
+## Group 15 Draft AI Task
+
+I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should bounded by their headwaters and the second major reservoir for each river. I want to download _atmospheric, stream flow, land cover and soil moisture data_. **[Use these data sources: ?]**
+
+Download the data for a range of dates from **2020-2024**. Store the data in this project folder.
+
+Write python scripts to analyze the daily to monthly variations in **___ and ___** for the sites.
+
+_Create a topographic map with river features including DEM that delineates the three watersheds in their bounded regions._
+
+Create beautiful plots that describe these patterns and highlight the variations between them.
+
+I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
+
+# Prototype Sections Below
+
 ## Socioeconomic Forcings (Psudomodel based on RAD Framework)
 - Green, Snake and Wind Rivers and their watersheds stakeholders are hypothesized to place different values on water use.
   *hypothesized reponses based on a mostly uniformed prior*
