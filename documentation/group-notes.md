@@ -74,7 +74,6 @@ land cover (NLCD or Sentinel)
 and
 soil moisture (Palmer drought stress index or NASA SMAP)
 data.
-**[Use which data sources: ?]**
 
 Download the data for a range of dates from 1994-2024. Store the data in this project folder.
 
