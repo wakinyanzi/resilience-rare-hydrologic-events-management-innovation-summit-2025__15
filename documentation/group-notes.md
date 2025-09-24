@@ -39,7 +39,8 @@ Original question:
   - fire: soil moisture -- unsure how to estimate.
 
 ## Socioeconomic Forcings (Psudomodel based on RAD Framework)
-- Green, Snake and Wind Rivers and their watersheds stakeholders are hypothesized to place different values on water use
+- Green, Snake and Wind Rivers and their watersheds stakeholders are hypothesized to place different values on water use.
+  *hypothesized reponses based on a mostly uniformed prior*
   - Snake: Resistance to water and landuse changes that might affect property values for wealthy land owners
   - Wind: Accept due low socioeconomic power. Engineered solutions are not generally the preferred alternative.
   - Green: Direct changes in water use to favor production of food crops -- water is managed towards the storage of irrigation water.
@@ -48,11 +49,13 @@ Original question:
 - Let the data define the question -- null prior
 
 ## Draft refined questions:
-1) What are the most important responses in atmospheric, streamflow, land cover, and soil mosture metrics to differential management strategies in the headwaters of the Snake River, Wind River, and Green River
-2) How do wie expect these diffrential responses to affect water loss (PET), stream ecohydrology, land use patterns over time, soil mosture drought -> streamflow drought.
+1) What are the most important responses in atmospheric, streamflow, land cover, and soil mosture metrics to differential management strategies in the headwaters of the Snake River, Wind River, and Green River?
+2) How do we expect these diffrential responses to affect water loss (PET), stream ecohydrology, land use patterns over time, soil mosture drought -> streamflow drought.
 5) Are there ways to test these expectations from a resiliance, responce, community healing/empowerment framework?
 
-## Thoughts on methodological approach -- Gepeto (ChatGPT 5 - thinking) weighing in here
+## Thoughts on methodological approach
+
+Gepeto (ChatGPT 5 - thinking) weighing in here
 
 *Prompt: If I have a set of data in three different groups is there a random forest or another method to identify which variables are most important in identifying the differences?* 
 
