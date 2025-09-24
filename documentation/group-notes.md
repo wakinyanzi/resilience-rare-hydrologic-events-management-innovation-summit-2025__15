@@ -63,6 +63,7 @@ Projections
 - UTM 12N
 - [NAD83](https://www.ngs.noaa.gov/datums/horizontal/north-american-datum-1983.shtml)
 - HUC
+- [USGS LiDAR Report](https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/metadata/UT_Zion_2015/UT_ZionNP-QL1_2016/reports/Zion%20National%20ParkUSGS%20QL1%20and%20QL2%20Lidar%20Report.pdf)
 
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 
