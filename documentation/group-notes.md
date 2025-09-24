@@ -49,8 +49,9 @@ Original question:
 
 ## Draft refined questions:
 1) Do differential management stategies in the headwaters of the Snake River, Wind River, and Green River result in significant differences in atmospheric, streamflow, land cover, and soil mosture? If yes, then --
-2) How do these differences affect water loss (PET), stream ecohydrology, land use patterns over time, soil mosture drought -> streamflow drought.
-3) If there are differences in one or more datasets, can we derive testible hypotheses relating back to the core question of resilience?
+1a) What are the most important responses in atmospheric, streamflow, land cover, and soil mosture metrics to differential management strategies in the headwaters of the Snake River, Wind River, and Green River
+2) How do wie expect these diffrential responses to affect water loss (PET), stream ecohydrology, land use patterns over time, soil mosture drought -> streamflow drought.
+5) Are there ways to test these expectations from a resiliance, responce, community healing/empowerment framework?
 
 ## Thoughts on methodological approach -- Gepeto (ChatGPT 5 - thinking) weighing in here
 
