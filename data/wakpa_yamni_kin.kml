@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>wakpa_yamni_kin</name>
+	<gx:CascadingStyle kml:id="__managed_style_4309383CD03AB245CE57">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3BA2601F193AB245CE57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4309383CD03AB245CE57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_59A11316FD3AB245CE57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_232AAA9A053AB24343D6">
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1840E9EB4E3AB24343D6">
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_59A11316FD3AB245CE57">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0AD2B169E13AB24343D6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1840E9EB4E3AB24343D6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_232AAA9A053AB24343D6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="059F4060D03AB2432EAC">
+		<name>Three Waters Mountain</name>
+		<gx:mid>/m/0wxq_9r</gx:mid>
+		<gx:fid>0x5352af0fde2bf2cb:0xbc775d535487cae4</gx:fid>
+		<LookAt>
+			<longitude>-109.7777778</longitude>
+			<latitude>43.38166604999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3773.833619359641</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0AD2B169E13AB24343D6</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-109.7777778,43.3816666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EDC5EC6183AB245CE53">
+		<name>Boysen Reservoir</name>
+		<LookAt>
+			<longitude>-110.416849514595</longitude>
+			<latitude>43.47614782879239</latitude>
+			<altitude>3122.329434941994</altitude>
+			<heading>359.9997944705415</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500297.4639639258</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3BA2601F193AB245CE57</styleUrl>
+		<Point>
+			<coordinates>-108.1831425029358,43.35341134658287,1462.124746259606</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081A7E7A183AB246576E">
+		<name>Flaming Gorge Reservoir</name>
+		<LookAt>
+			<longitude>-110.938065836292</longitude>
+			<latitude>43.21830747115044</latitude>
+			<altitude>2490.591337573167</altitude>
+			<heading>359.999793328135</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1047448.134268373</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3BA2601F193AB245CE57</styleUrl>
+		<Point>
+			<coordinates>-109.5223581095016,41.31049146374778,2232.436454961356</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E58DD7A013AB246AE44">
+		<name>Palisade Reservoir</name>
+		<LookAt>
+			<longitude>-110.2040956656075</longitude>
+			<latitude>42.78021141936238</latitude>
+			<altitude>2298.205361902792</altitude>
+			<heading>359.9997929141169</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>519316.1668632926</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3BA2601F193AB245CE57</styleUrl>
+		<Point>
+			<coordinates>-111.0983616515611,43.30086551232892,1914.168006926013</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B422C0E293AB24B0A17">
+		<name>rough boundary</name>
+		<LookAt>
+			<longitude>-110.864001554358</longitude>
+			<latitude>42.48326597951954</latitude>
+			<altitude>2583.260310463004</altitude>
+			<heading>359.9997883582661</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1718830.381133258</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3BA2601F193AB245CE57</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-109.53297714278,41.19175312764365,0 -108.3911867701961,41.36405915855565,0 -107.9233935564773,41.53415716956836,0 -107.6626530293702,42.00248739683689,0 -107.4354216954348,42.65758682528508,0 -107.4329049099125,43.46187505538283,0 -107.9157958977473,43.93433169591803,0 -108.706200529179,44.33027993860335,0 -109.9109670720312,44.32086333517004,0 -110.6445255194122,44.48921679352846,0 -111.3089101511685,44.39259797259192,0 -111.3071829090885,43.60323863666263,0 -111.3928140392976,42.90448275134543,0 -111.3112942041847,42.6654298113721,0 -110.7422904498417,42.15779462186975,0 -111.0157970745259,41.4635325322937,0 -110.3253631825046,41.20468565685663,0 -109.53297714278,41.19175312764365,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
