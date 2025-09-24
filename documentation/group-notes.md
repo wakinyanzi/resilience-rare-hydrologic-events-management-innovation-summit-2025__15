@@ -57,6 +57,13 @@ Team member goals
 - career advancement
 - win-win use of code or results
 
+Projections
+
+- [EPSG:26912](https://spatialreference.org/ref/epsg/26912/)
+- UTM 12N
+- [NAD83](https://www.ngs.noaa.gov/datums/horizontal/north-american-datum-1983.shtml)
+- HUC
+
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 
 [Claude](https://claude.ai) 
