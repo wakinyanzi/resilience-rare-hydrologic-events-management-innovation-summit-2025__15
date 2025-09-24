@@ -71,6 +71,11 @@ See [Devise](https://devise.uwyo.edu/app)
   - [HUC National Map Viewer](https://apps.nationalmap.gov/viewer/)
 - [USGS LiDAR Report](https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/metadata/UT_Zion_2015/UT_ZionNP-QL1_2016/reports/Zion%20National%20ParkUSGS%20QL1%20and%20QL2%20Lidar%20Report.pdf)
 
+## Maps
+
+- [landmapr](https://github.com/byandell-envsys/landmapr) R package
+- <https://native-land.ca/>
+
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 
 [Claude](https://claude.ai) 
