@@ -39,6 +39,7 @@ Original question:
   - fire: soil moisture -- unsure how to estimate.
 
 ## Group 15 Draft AI Task
+-This comes from Brian and Jason discussion with Tyson about using Claude to automate development of GitHub repo._
 
 I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should bounded by their headwaters and the second major reservoir for each river. I want to download _atmospheric, stream flow, land cover and soil moisture data_. **[Use these data sources: ?]**
 
