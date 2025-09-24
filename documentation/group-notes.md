@@ -48,8 +48,7 @@ Original question:
 - Let the data define the question -- null prior
 
 ## Draft refined questions:
-1) Do differential management stategies in the headwaters of the Snake River, Wind River, and Green River result in significant differences in atmospheric, streamflow, land cover, and soil mosture? If yes, then --
-1a) What are the most important responses in atmospheric, streamflow, land cover, and soil mosture metrics to differential management strategies in the headwaters of the Snake River, Wind River, and Green River
+1) What are the most important responses in atmospheric, streamflow, land cover, and soil mosture metrics to differential management strategies in the headwaters of the Snake River, Wind River, and Green River
 2) How do wie expect these diffrential responses to affect water loss (PET), stream ecohydrology, land use patterns over time, soil mosture drought -> streamflow drought.
 5) Are there ways to test these expectations from a resiliance, responce, community healing/empowerment framework?
 
