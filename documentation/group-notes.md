@@ -31,6 +31,8 @@ Original question:
 - bounded by second major reservoir for each river
 - dams and lakes
 
+![](images/Headwaters.png)
+
 ## Measurements
 
 - water-drought relationship
