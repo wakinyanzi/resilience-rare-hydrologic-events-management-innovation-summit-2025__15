@@ -62,7 +62,10 @@ Coordinate Reference System Projections
 - [EPSG:26912](https://spatialreference.org/ref/epsg/26912/)
 - UTM 12N (study area)
 - [NAD83](https://www.ngs.noaa.gov/datums/horizontal/north-american-datum-1983.shtml)
-- HUC
+- [HUC](https://www.usgs.gov/media/images/regional-hydrologic-unit-map) levels 6 and 8
+  - HUC 6 170401 Snake
+  - HUC 6 100800 Wind
+  - HUC 6 140401 Green
 - [USGS LiDAR Report](https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/metadata/UT_Zion_2015/UT_ZionNP-QL1_2016/reports/Zion%20National%20ParkUSGS%20QL1%20and%20QL2%20Lidar%20Report.pdf)
 
 ## Draft AI Task using Claude and MCP
@@ -87,7 +90,7 @@ I want to create a new scientific project. The goal is to download data from thr
 and the second major reservoir for each river. I want to download
 atmospheric (precipitation and NDVI and PRISM),
 streamflow (USGS water, NDWI),
-land cover (NLCD or ESA World Cover)
+land cover (NLCD or ESA World Cover or EMIT)
 and
 soil moisture (Palmer drought stress index or NASA SMAP)
 data.
