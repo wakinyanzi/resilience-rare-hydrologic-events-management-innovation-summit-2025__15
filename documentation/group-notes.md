@@ -77,7 +77,7 @@ data.
 
 Download the data for a range of dates from 1994-2024. Store the data in this project folder.
 
-Write python scripts to analyze the daily to monthly variations in vapor pressure deficit and potential evapotranspiration for the sites.
+Write python / R scripts to analyze the daily to monthly variations in vapor pressure deficit and potential evapotranspiration for the sites.
 
 _Create a topographic map with river features including DEM that delineates the three watersheds in their bounded regions._
 
