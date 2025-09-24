@@ -67,8 +67,9 @@ Create beautiful plots that describe these patterns and highlight the variations
 I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
 
 ### Draft Group 15 Task
-I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries) and the second major reservoir for each river. I want to download
-atmospheric (precipitation and NDVI),
+I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries by HUC)
+and the second major reservoir for each river. I want to download
+atmospheric (precipitation and NDVI and PRISM),
 streamflow (USGS water, NDWI),
 land cover (NLCD or ESA World Cover)
 and
