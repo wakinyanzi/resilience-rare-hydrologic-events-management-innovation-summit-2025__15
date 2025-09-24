@@ -62,6 +62,10 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
 *Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
 
 ### Data sources we’re exploring 📣
+<!-- EDIT: Link each source; add size/notes if relevant. -->
+- **Source A**
+- Source B — link and 1-line description
+
 - **NOAA Atlas 14 extreme precipitation grids** — baseline design storms to benchmark current planning thresholds.
 
   ![Pattern revealed during exploration](assets/explore_data_plot.png)
@@ -70,6 +74,16 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
 
 - **NASA IMERG precipitation time series** — near-real-time anomaly tracking for event attribution.
 - **US Census SVI indicators** — spatial context for vulnerable populations potentially affected by flash flooding.
+
+### Methods / technologies we’re testing 📣
+- Approach 1 (e.g., time-series break detection)
+- Approach 2 (e.g., random forest on features)
+- Visualization (e.g., map tiles, small multiples)
+
+### Challenges identified
+- Data gaps / quality issues
+- Method limitations / compute constraints
+- Open questions we need to decide on
 
 ### Methods / technologies we’re testing 📣
 - Rainfall frequency adjustment factors derived from downscaled climate projections.
@@ -82,15 +96,17 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
 - Need for vetted narratives that balance urgency with uncertainty when briefing decision makers.
 
 ### Visuals
+<!-- EDIT: Swap examples; keep file sizes modest. -->
+
 #### Static figure
 ![Initial exposure overlay of critical facilities and extreme rainfall thresholds](assets/figure1.png)
 [Raw photo location: figure1.png](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/figure1.png)
-*Figure 1.* Prototype overlay showing where extreme rainfall exceeds current design thresholds near critical facilities.
+*Figure 1.* One line on what this suggests.
 
 #### Animated change (GIF)
 ![Animation of cumulative rainfall anomalies during a historic event](assets/change.gif)
 [Raw photo location: change.gif](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/change.gif)
-*Figure 2.* Temporal accumulation of rainfall highlighting rapid escalation during a 2013-like event scenario.
+*Figure 2.* One line on what changes across time.
 
 #### Interactive map (iframe)
 <iframe
@@ -110,22 +126,23 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-- Extreme 24-hour rainfall could exceed existing design thresholds by 15–25% in key headwater basins.
-- Critical facilities such as wastewater plants and emergency shelters cluster inside high-risk catchments.
-- Incorporating social vulnerability indicators shifts priority outreach zones toward downstream communities.
-
+<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
+- Headline 1 — what, where, how much
+- Headline 2 — change/trend/contrast
+- Headline 3 — implication for practice or policy
+  
 ### Visuals that tell the story 📣
 ![Lead conclusion visual showing combined hazard and exposure](assets/fire_hull.png)
 [Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Combined hazard-exposure index highlighting where resilient design investments deliver the biggest benefits.
+*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
 
 ![Supporting panels summarizing risk tiers and response options](assets/hull_panels.png)
 [Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Rapid triage of assets into immediate, near-term, and monitoring categories for emergency planners.
+*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
 
 ![Complementary result comparing modeled and observed peak flows](assets/main_result.png)
 [Raw photo location: main_result.png](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/main_result.png)
-*Visual 3.* Modeled versus observed peak flow comparison demonstrating where additional data collection is needed.
+*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
 
 <iframe
   title="Short explainer video (optional)"
@@ -135,9 +152,9 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Finalize the exposure dashboard and package a shareable PDF brief for partners.
-- Coordinate with CyVerse support to stage curated datasets in the Group 15 community folder.
-- Schedule follow-up conversations with state resilience offices and watershed coalitions to prioritize mitigation pilots.
+- Immediate follow-ups
+- What we would do with one more week/month
+- Who should see this next
 
 ---
 
@@ -161,9 +178,8 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
 ## Team
 | Name | Role | Contact | GitHub |
 |------|------|---------|--------|
-| _Add your team member here_ | _Lead / Hydrologist_ | _name@example.org_ | @_github_ |
-| _Add your team member here_ | _Data & Modeling_ | _name@example.org_ | @_github_ |
-| _Add your team member here_ | _Community Liaison_ | _name@example.org_ | @_github_ |
+| Jane Doe | Lead | jane.doe@example.org | @janedoe |
+| John Smith | Analyst | john.smith@example.org | @jsmith |
 
 ---
 
