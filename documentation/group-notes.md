@@ -75,6 +75,7 @@ See [Devise](https://devise.uwyo.edu/app)
 
 - [landmapr](https://github.com/byandell-envsys/landmapr) R package
 - <https://native-land.ca/>
+- [wakpa_yamni_kin](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/data/wakpa_yamni_kin.kml)
 
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 
