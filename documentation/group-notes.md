@@ -39,6 +39,15 @@ Original question:
   - water: streamflow -- mean, median, sd, IQR, 5%, 95% of mean daily streamflow at gages
   - earth: land cover -- fraction of NLCD
   - fire: soil moisture -- unsure how to estimate.
+ 
+## Goals
+Short term
+
+- during this workshop
+
+Long term
+
+- proposal 
 
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 
@@ -58,9 +67,16 @@ Create beautiful plots that describe these patterns and highlight the variations
 I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
 
 ### Draft Group 15 Task
-I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should bounded by their headwaters and the second major reservoir for each river. I want to download _atmospheric, stream flow, land cover and soil moisture data_. **[Use these data sources: ?]**
+I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries) and the second major reservoir for each river. I want to download
+atmospheric (precipitation and NDVI),
+streamflow (USGS water, NDWI),
+land cover (NLCD or Sentinel)
+and
+soil moisture (Palmer drought stress index or NASA SMAP)
+data.
+**[Use which data sources: ?]**
 
-Download the data for a range of dates from **2020-2024**. Store the data in this project folder.
+Download the data for a range of dates from 1994-2024. Store the data in this project folder.
 
 Write python scripts to analyze the daily to monthly variations in **___ and ___** for the sites.
 
