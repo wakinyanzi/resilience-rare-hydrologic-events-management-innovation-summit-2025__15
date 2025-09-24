@@ -57,10 +57,10 @@ Team member goals
 - career advancement
 - win-win use of code or results
 
-Projections
+Coordinate Reference System Projections
 
 - [EPSG:26912](https://spatialreference.org/ref/epsg/26912/)
-- UTM 12N
+- UTM 12N (study area)
 - [NAD83](https://www.ngs.noaa.gov/datums/horizontal/north-american-datum-1983.shtml)
 - HUC
 - [USGS LiDAR Report](https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/metadata/UT_Zion_2015/UT_ZionNP-QL1_2016/reports/Zion%20National%20ParkUSGS%20QL1%20and%20QL2%20Lidar%20Report.pdf)
