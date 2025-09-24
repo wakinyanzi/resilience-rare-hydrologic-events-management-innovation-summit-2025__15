@@ -18,6 +18,8 @@ Original question:
 - How might we improve resilience (define?) to rare hydrologic and meteorologic events (e.g. flood, drought, tornado) across communities and ecosystems through management practices?
 
 ![](images/Group15.png)
+![](images/revisedGroup15.png)
+![](images/Group15Notes.png)
 
 ## Study Area
 
