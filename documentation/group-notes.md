@@ -40,9 +40,24 @@ Original question:
   - earth: land cover -- fraction of NLCD
   - fire: soil moisture -- unsure how to estimate.
 
-## Group 15 Draft AI Task
-**_This comes from Brian and Jason discussion with Tyson about using Claude to automate development of GitHub repo._**
+## Draft AI Task using Claude and MCP
+**_This comes from Brian and Jason discussion with Tyson about using 
+[Claude](https://claude.ai) 
+and 
+[Model Context Protocol (MCP)](https://modelcontextprotocol.io/) to automate development of GitHub repo._**
 
+### Tyson Prototype Task
+I want to create a new scientific project. The goal is to download data from three different NEON sites across a broad climatic range. I want to download the temperature, precipitation, and vapor pressure data for a desert site (SRER), a montane site (RMNP), and a tropical site in Puerto Rico (I cannot remember its site name).
+
+Download the data for a range of dates from 2020-2024. Store the data in this project folder.
+
+Write python scripts to analyze the daily to monthly variations in vapor pressure deficit, and potential evapotranspiration for the sites.
+
+Create beautiful plots that describe these patterns and highlight the variations between them.
+
+I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
+
+### Draft Group 15 Task
 I want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should bounded by their headwaters and the second major reservoir for each river. I want to download _atmospheric, stream flow, land cover and soil moisture data_. **[Use these data sources: ?]**
 
 Download the data for a range of dates from **2020-2024**. Store the data in this project folder.
