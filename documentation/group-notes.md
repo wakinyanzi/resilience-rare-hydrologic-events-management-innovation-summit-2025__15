@@ -116,6 +116,10 @@ Create beautiful plots that describe these patterns and highlight the variations
 
 I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
 
+### Results
+This was run by Tyson Swetnam and are shared at
+[CyVerse shard folder home/shared/esiil/summit2025_demo/wyoming_rivers_project](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project?selectedOrder=asc&selectedOrderBy=name&selectedPage=0&selectedRowsPerPage=100)
+
 ## Socioeconomic Forcings (Pseudomodel based on RAD Framework)
 - Green, Snake and Wind Rivers and their watersheds stakeholders are hypothesized to place different values on water use.
   *hypothesized reponses based on a mostly uniformed prior*
